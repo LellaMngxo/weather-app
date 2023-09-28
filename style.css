@@ -1,0 +1,160 @@
+#search-form {
+  color: #bee5f3;
+  text-align: right;
+  margin-top: 10px;
+  font-family: "Poppins", sans-serif;
+}
+#current {
+  color: #e3f0f8;
+  background-color: #005470;
+  border-radius: 50px;
+  border: 1px solid #885df1;
+  padding: 3px;
+  font-family: "Poppins", sans-serif;
+  transition: all 200ms ease;
+}
+#current:hover {
+  background-color: #e3f0f8;
+  color: #005470;
+}
+h3 {
+  color: #bee5f3;
+  font-size: 30px;
+  font-weight: 400;
+  font-family: "Poppins", sans-serif;
+}
+h2 {
+  text-align: right;
+  margin-top: 10px;
+  font-family: "Poppins", sans-serif;
+}
+ul {
+  margin: 0 0 10px;
+  padding: 0;
+  color: #bee5f3;
+  text-align: right;
+  text-decoration: none;
+  list-style: none;
+  font-family: "Poppins", sans-serif;
+}
+button {
+  color: #e3f0f8;
+  background-color: #005470;
+  border-radius: 50px;
+  border: 1px solid #885df1;
+  padding: 3px;
+  font-family: "Poppins", sans-serif;
+  transition: all 200ms ease;
+}
+button:hover {
+  background-color: #e3f0f8;
+  color: #005470;
+}
+a {
+  text-decoration: none;
+  color: #06607d;
+}
+a:hover {
+  transition: 200ms ease;
+  text-decoration: underline;
+  cursor: pointer;
+}
+hr {
+  color: #bee5f3;
+}
+#fahrenheit-link {
+  color: #6eccee;
+  text-decoration: none;
+}
+#celcius-link {
+  color: #6eccee;
+  text-decoration: none;
+}
+#date {
+  float: left;
+  font-size: 16px;
+  height: 19px;
+  line-height: 1;
+  font-family: "Poppins", sans-serif;
+}
+.weather-today {
+  color: #bee5f3;
+  font-weight: 200;
+  font-size: 40px;
+  font-family: "Poppins", sans-serif;
+}
+.degree {
+  color: #bee5f3;
+  display: inline-block;
+  font-size: 16px;
+  line-height: 24px;
+  margin-top: 6px;
+  padding-left: 6px;
+  vertical-align: top;
+}
+.weather-app {
+  margin: 100px 0;
+  padding: 20px;
+  border: solid 1px #6e86e3;
+  border-radius: 20px;
+  background-color: #0e0922;
+}
+.form-control {
+  background-color: #e1f7f6;
+  border: solid 1px #6ac8e2;
+  border-radius: 50px;
+  box-shadow: #6069a8;
+}
+.form-control:hover {
+  transition: 200ms #86def7 ease-in-out;
+}
+.search-icon {
+  color: #5fcdf8;
+}
+.col-1 {
+  color: #bee5f3;
+  font-family: "Poppins", sans-serif;
+}
+.col-2 {
+  color: #bee5f3;
+  font-family: "Poppins", sans-serif;
+}
+.col-3 {
+  color: #bee5f3;
+  font-family: "Poppins", sans-serif;
+}
+.col-4 {
+  color: #bee5f3;
+  font-family: "Poppins", sans-serif;
+}
+.col-5 {
+  color: #bee5f3;
+  font-family: "Poppins", sans-serif;
+}
+.col-6 {
+  color: #bee5f3;
+  font-family: "Poppins", sans-serif;
+}
+.wed-icon {
+  color: #ffff00;
+}
+.sun-icon {
+  color: #ffff00;
+}
+.thu-icon {
+  color: #ffff00;
+}
+.mon-icon {
+  color: #ffff00;
+}
+.fri-icon {
+  color: #ffff00;
+}
+.sat-icon {
+  color: #ffff00;
+}
+.author {
+  color: #bee5f3;
+  font-family: "Poppins", sans-serif;
+  text-align: center;
+}
